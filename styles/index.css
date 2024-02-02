@@ -39,7 +39,6 @@ body {
 	margin: 10px;
 }
 
-
 .container2 {
 	width: 468px;
 	height: 160px;
@@ -137,7 +136,7 @@ body {
 .textbox {
  	color: #638889;
 	font-family: Roboto;
-	font-size: 20px;
+	font-size: 15px;
 	font-style: normal;
 	font-weight: 400;
 	line-height: normal;
